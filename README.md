@@ -1,12 +1,12 @@
-# 🌿 WellMe – Team Mobile App Project
+#  WellMe – Team Mobile App Project
 
-Hey there 👋  
+Hey there  
 Welcome to our **WellMe** app — a simple and fun wellness tracker made by our team!  
-We designed and prototyped this mobile app together as part of our course project. 💚  
+We designed and prototyped this mobile app together as part of our course project.  
 
 ---
 
-## 👥 Our Team Work
+##  Our Team Work
 
 We worked as a small team to create this app idea from scratch:  
 - First, we **brainstormed ideas** for a useful app.  
@@ -20,11 +20,11 @@ During our teamwork, we shared tasks:
 - Another focused on styling and components.
 - Others helped write the report and test the app.
 
-We also learned to **communicate and solve problems together** — and that teamwork makes everything easier. 💪  
+We also learned to **communicate and solve problems together** — and that teamwork makes everything easier.  
 
 ---
 
-## 🚀 How to run the app
+##  How to run the app
 
 1. **Unzip** the file `wellme-app.zip`
 2. **Open the folder** in **Visual Studio Code**
@@ -40,34 +40,34 @@ We also learned to **communicate and solve problems together** — and that team
 
 ---
 
-## 💡 What’s inside
+##  What’s inside
 
 - Built with **React + Vite + Tailwind CSS**
 - Icons from **Lucide React**
 - Pages: Splash, Login, Home, Activity, Statistics, Profile
-- Finnish UI texts 🇫🇮
+- Finnish UI texts 
 - Fully responsive mockup — looks like a real app!
 
 ---
 
-## 🧩 What we learned
+##  What we learned
 
 Each team member wrote about their learning experience in the project report,  
 but overall we learned to:
-- Plan an app idea from scratch 🧠  
-- Design mobile UI using Figma 🎨  
-- Build components and prototypes 💻  
-- Work together and help each other 🤝  
+- Plan an app idea from scratch 
+- Design mobile UI using Figma 
+- Build components and prototypes   
+- Work together and help each other  
 
 ---
 
-## 💬 Reflection
+##  Reflection
 
 This project taught us not only coding,  
 but also how to think like designers and create something meaningful.  
-We are proud of what we built together — and we hope you like it too! 🌱  
+We are proud of what we built together and we hope you like it too! 🌱  
 
 ---
 
 **Team:**  
-*The WellMe Development Team 💚*
+*The WellMe Development Team *
