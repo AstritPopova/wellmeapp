@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+
+/* Calm gradient background */
+body{
+  @apply text-white font-sans;
+  background: radial-gradient(1200px 800px at 20% 0%, #1A3B5D 0%, #0F1C2E 45%, #0B1422 100%);
+}
+
+/* Glassmorphism utility */
+.glass {
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border: 1px solid rgba(255,255,255,0.15);
+  box-shadow: 0 10px 30px rgba(0,0,0,.25);
+}
+
+.h1 { @apply font-display text-2xl md:text-3xl leading-tight; }
+.h2 { @apply font-display text-xl md:text-2xl; }
+
+/* ---- Input fields styling for dark mode ---- */
+@layer components {
+  input, select, textarea {
+    @apply bg-white/10 text-white placeholder-white/60 border border-white/20 rounded-xl;
+  }
+  input:focus, select:focus, textarea:focus {
+    @apply outline-none ring-2 ring-well-mint;
+
+    @layer components {
+
+  select option {
+    color: #0B1422;          
+    background-color: #ffffff; 
+  }
+  select option:checked {
+    background-color: #e6f7f0; 
+    color: #0B1422;
+  }
+}
+
+  }
+}
