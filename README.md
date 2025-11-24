@@ -65,7 +65,7 @@ but overall we learned to:
 
 This project taught us not only coding,  
 but also how to think like designers and create something meaningful.  
-We are proud of what we built together — and we hope you like it too! 🌱  
+We are proud of what we built together and we hope you like it too! 🌱  
 
 ---
 
